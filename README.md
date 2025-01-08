@@ -1,1 +1,1 @@
-# technology.com
+# technology
